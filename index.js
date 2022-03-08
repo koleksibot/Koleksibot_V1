@@ -1,4 +1,3 @@
-// BY RIMURUBOTZ
 // JANGAN DI PERJUAL BELIKAN OM
 const {
     WAConnection,
